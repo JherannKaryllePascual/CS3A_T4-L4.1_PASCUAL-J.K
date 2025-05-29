@@ -1,0 +1,23 @@
+body{
+    font-family: cursive;
+    background-color: #fce4ec;
+    color: #333;
+    text-align: center;
+}
+.container{
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fce;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+h1{
+    color: #e91e63;
+}
+button{
+    background-color: #e91e63;
+    color: white;
+    max-width: 400%;
+}
